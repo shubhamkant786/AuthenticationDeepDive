@@ -1,0 +1,6 @@
+@AuthenticationDeepDive.Weather.Cookie_HostAddress = http://localhost:5250
+
+GET {{AuthenticationDeepDive.Weather.Cookie_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

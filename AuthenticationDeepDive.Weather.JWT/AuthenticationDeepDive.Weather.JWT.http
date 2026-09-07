@@ -1,0 +1,6 @@
+@AuthenticationDeepDive.Weather.JWT_HostAddress = http://localhost:5177
+
+GET {{AuthenticationDeepDive.Weather.JWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
